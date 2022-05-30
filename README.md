@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-My name is Rafael and I work as a software engineer at Microsoft. 
+- 🎓 My name is Rafael and I am a UC Berkeley Alumn working as a software engineer at Microsoft. 
+- 📚 I love reading books on personal development, business, health, financial literacy, etc.
 
 ### Languages
 
